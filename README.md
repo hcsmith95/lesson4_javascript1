@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+2/7/17
 
 ### Student Name:  
-(First and Last Name)
+Harrison Smith  
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment we learned to use Javascript to make a webpage interactive with the user. We built an expense calculator, which is where the user would enter their personal information for each value field. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://hcsmith95.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. We learned about the document.getElementById method, which will access the first element in the HTML document with that particular specified ID. 
+2. We learned about the toFixed() method, which specifies the number of digits after a decimal point for each value. 
+3. Lastly, we learned about the innerHTML property, which is used with the document.getElementById method. This property sets/returns the HTML content of an element. 
